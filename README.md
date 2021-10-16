@@ -8,8 +8,16 @@
 # Results
 
   * There were 82 vine reviews and 24,742 non-vine reviews. 
+  
+    ![Total_Reviews](https://user-images.githubusercontent.com/86446609/137591631-fb1228b9-a343-437c-bedf-9da8e1ccaca7.JPG)
+    
   * The count of 5 stars vine reviews were 33 (40.24%).
+  
+    ![paid_5_star](https://user-images.githubusercontent.com/86446609/137591649-49940ee0-a5ae-431b-8d31-26059a1048a8.JPG)
+    
   * The count of 5 stars non-vine reviews were 12807 (51.76%). 
+  
+    ![unpaid_5_star](https://user-images.githubusercontent.com/86446609/137591667-1ea198f9-58a6-4e95-bf21-20683d2b0201.JPG)
 
 # Summary
   
